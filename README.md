@@ -2,7 +2,7 @@
 
 ## Overview
 
-Conventional biodosimetry requires manual foci scoring, which is low-throughput and observer-dependent. This model automates dose estimation directly from raw fluorescence images, bypassing explicit foci counting. It is trained on 4-hour post-exposure images across five dose levels (0, 0.10, 0.30, 0.82, 1.0 Gy).
+Conventional biodosimetry requires manual foci scoring, which is low-throughput and observer-dependent. This model automates dose estimation directly from raw fluorescence images, bypassing explicit foci counting. It is trained on 4-hour post-exposure images exposed to both X-ray and Iron across five dose levels (0, 0.10, 0.30, 0.82, 1.0 Gy).
 
 **Key architectural contributions:**
 
