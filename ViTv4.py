@@ -1,6 +1,4 @@
 """
-Vision Transformer with Convolutional Patch Embedding
-for Single-Cell γH2AX Foci-Based Radiation Dose Estimation
 
 Architecture: ViT with convolutional patch stem, depthwise conv MLP,
 cell-cycle conditioning via nuclear area soft quantisation, and
